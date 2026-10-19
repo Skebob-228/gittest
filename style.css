@@ -1,0 +1,19 @@
+* {
+    font-size: 15px;
+}
+
+div {
+    background-color: blue;
+}
+
+.block {
+    background-color: aliceblue;
+}
+
+#nav {
+    background-color: blueviolet;
+}
+
+h1, h2, .redblock {
+    background-color: chocolate;
+}

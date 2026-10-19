@@ -1,0 +1,170 @@
+body {
+    padding: 0;
+    margin: 0;
+    align-content: center;
+}
+
+.container {
+    background-color: #F0F0F0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.nav_container {
+    background-color: #F0F0F0;
+    height: 87vh;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1%;
+}
+
+.main_container {
+    background-color: floralwhite;
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    background-color: #d87093;
+    margin-top: 1%;
+    width: 17%;
+    height: 40%;
+    margin-left: 2%;
+    flex-direction: column;        
+}
+
+.header2 {
+background-color: #d87093;
+    margin-top: 1%;
+    width: 17%;
+    height: 40%;
+    margin-left: 20px;
+    flex-direction: column;    
+}
+
+.header3 {
+background-color: #d87093;
+    margin-top: 1%;
+    width: 17%;
+    height: 40%;
+    margin-left: 20px;
+    flex-direction: column;    
+}
+
+.search {
+    margin-top: 1%; 
+    margin-left: 2%; 
+}
+
+.logo_container {
+    background-color: #F0F0F0;
+    width: 100vw;          
+    height: 10vh;  
+    display: flex;                 
+}
+
+.list_nav_container {
+    background-color: #F0F0F0;
+    width: 100%;
+    height: 60%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.nav_elem_container {
+    display: flex;
+    margin-top: 9%;
+}
+
+.nav_container_logo {
+    width: 17%;
+    height: 72.90px;
+    background-color: blueviolet;
+    margin-top: 0px;
+}
+
+.icon_nav_elem_container {
+    width: 2vw;
+    height: 4vh;
+    background-color: blueviolet;
+    border-radius: 10%;
+}
+
+.spacer {
+    margin-bottom: 1%;
+}
+
+.avatar {
+    width: 20%;
+    height: 50%;
+    background-color: blueviolet;
+    display: flex;
+}
+
+.line {
+    background-color: rgb(212, 206, 206);
+    width: 80%;
+    height: auto;
+    margin: 31px;
+    display: flex;
+}
+
+.testline {
+    background-color: rgb(212, 206, 206);
+    width: 50%;
+    height: 30%;
+    margin: 31px;
+    display: flex;
+}
+
+.line1 {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    margin: 30px;
+}
+
+.line1.first {
+    width: 50%;
+    display: flex;
+}
+
+.line1.second {
+    width: 30%;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.line1.third {
+    width: 20%;
+}
+
+.line1.fourth {
+    width: 20%;
+}
+
+.small-box {
+    margin: 1%;
+    width: 10vw;
+    height: 20vh;
+    background-color: greenyellow;
+    border-radius: 10%;
+}
+
+.login-container {
+    width: 50%;
+    height: 100%;
+    background-color: #00000094;
+    border-radius: 10%;
+}
